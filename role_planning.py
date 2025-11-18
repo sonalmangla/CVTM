@@ -9,10 +9,10 @@ NEW_MEMBER_FLAG = 4
 def assign_roles():
 
     current_date = pd.Timestamp.today()
-    past_meetings_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Meeting Planner Test Data")
-    member_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Member Test Data")
-    role_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Role Test Data")
-    meeting_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Meeting")
+    past_meetings_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Meeting Planner")
+    member_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Member")
+    role_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Role")
+    # meeting_df = pd.read_excel("CVTM Role Planning.xlsx",sheet_name="Meeting")
 
     active_member_df = member_df[member_df["active_to"].isnull()]
     active_member_df["active_since_days"] = (current_date - active_member_df["active_from"]).dt.days
