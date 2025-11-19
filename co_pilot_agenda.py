@@ -61,7 +61,7 @@ def generate_meeting_agenda(meeting_df, member_df, role_df, apologies=None, next
         else:
             min_count = min(counts.loc[m, role] for m in elig)
             elig_min = [m for m in elig if counts.loc[m, role] == min_count]
-            elig_min = sorted(elig_min)
+            # elig_min = sorted(elig_min)
             chosen = elig_min[0] if elig_min else None
 
         assigned[role] = chosen

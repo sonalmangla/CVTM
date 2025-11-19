@@ -1,331 +1,331 @@
-,member_name,active_from,active_to,active_flag,new_member_flag,active_since_days,membership_age,role_name,role_level,role_last_performed_date,days_since_event,rank
-45,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Tonic,1,1990-01-01,13105,1.0
-56,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Tonic,1,1990-01-01,13105,1.0
-100,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Tonic,1,1990-01-01,13105,1.0
-111,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Tonic,1,1990-01-01,13105,1.0
-122,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Tonic,1,1990-01-01,13105,1.0
-133,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Tonic,1,1990-01-01,13105,1.0
-144,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Tonic,1,1990-01-01,13105,1.0
-155,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Tonic,1,1990-01-01,13105,1.0
-166,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Tonic,1,1990-01-01,13105,1.0
-177,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Tonic,1,1990-01-01,13105,1.0
-188,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Tonic,1,1990-01-01,13105,1.0
-199,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Tonic,1,1990-01-01,13105,1.0
-210,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Tonic,1,1990-01-01,13105,1.0
-221,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Tonic,1,1990-01-01,13105,1.0
-232,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Tonic,1,1990-01-01,13105,1.0
-243,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Tonic,1,1990-01-01,13105,1.0
-254,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Tonic,1,1990-01-01,13105,1.0
-265,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Tonic,1,1990-01-01,13105,1.0
-276,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Tonic,1,1990-01-01,13105,1.0
-298,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Tonic,1,1990-01-01,13105,1.0
-309,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Tonic,1,1990-01-01,13105,1.0
-320,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Tonic,1,1990-01-01,13105,1.0
-78,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Tonic,1,2025-08-26,84,2.0
-67,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Tonic,1,2025-09-02,77,3.0
-89,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Tonic,1,2025-09-09,70,4.0
-287,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Tonic,1,2025-09-23,56,5.0
-12,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Tonic,1,2025-09-30,49,6.0
-23,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Tonic,1,2025-10-07,42,7.0
-1,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Tonic,1,2025-10-14,35,8.0
-34,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Tonic,1,2025-10-21,28,9.0
-47,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-69,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-80,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-102,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-113,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-124,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-135,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-146,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-157,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-168,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-179,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-190,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-201,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-212,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-223,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-234,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-256,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-267,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-278,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-300,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-311,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-322,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Inspiration,2,1990-01-01,13105,1.0
-58,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Inspiration,2,2025-08-26,84,2.0
-36,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Inspiration,2,2025-09-02,77,3.0
-245,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Inspiration,2,2025-09-09,70,4.0
-91,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Inspiration,2,2025-09-16,63,5.0
-3,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Inspiration,2,2025-09-23,56,6.0
-289,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Inspiration,2,2025-09-30,49,7.0
-14,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Inspiration,2,2025-10-14,35,8.0
-25,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Inspiration,2,2025-10-21,28,9.0
-42,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-64,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-86,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-108,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-119,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-130,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-141,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-152,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-163,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-185,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-196,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-207,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-218,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-229,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-251,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-262,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-273,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-284,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-306,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-317,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-328,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Timing Report,3,1990-01-01,13105,1.0
-97,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Timing Report,3,2025-08-26,84,2.0
-240,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Timing Report,3,2025-09-02,77,3.0
-20,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Timing Report,3,2025-09-09,70,4.0
-174,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Timing Report,3,2025-09-16,63,5.0
-75,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Timing Report,3,2025-09-23,56,6.0
-9,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Timing Report,3,2025-09-30,49,7.0
-295,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Timing Report,3,2025-10-07,42,8.0
-31,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Timing Report,3,2025-10-14,35,9.0
-53,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Timing Report,3,2025-10-21,28,10.0
-40,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-62,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-73,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-84,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-95,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-106,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-117,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-128,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-139,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-161,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-194,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-216,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-227,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-238,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-249,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-260,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-271,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-282,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-304,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-315,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-326,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Highlights & Phrases,4,1990-01-01,13105,1.0
-172,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Highlights & Phrases,4,2025-08-26,84,2.0
-51,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Highlights & Phrases,4,2025-09-02,77,3.0
-150,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Highlights & Phrases,4,2025-09-09,70,4.0
-205,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Highlights & Phrases,4,2025-09-16,63,5.0
-183,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Highlights & Phrases,4,2025-09-23,56,6.0
-29,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Highlights & Phrases,4,2025-09-30,49,7.0
-7,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Highlights & Phrases,4,2025-10-07,42,8.0
-293,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Highlights & Phrases,4,2025-10-14,35,9.0
-18,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Highlights & Phrases,4,2025-10-21,28,10.0
-16,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-170,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-192,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-225,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-236,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-269,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-302,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-313,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Pathways Speech,5,1990-01-01,13105,1.0
-181,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Pathways Speech,5,2025-08-26,84,2.0
-258,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Pathways Speech,5,2025-08-26,84,2.0
-324,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Pathways Speech,5,2025-08-26,84,2.0
-82,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Pathways Speech,5,2025-09-02,77,3.0
-247,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Pathways Speech,5,2025-09-02,77,3.0
-104,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Pathways Speech,5,2025-09-09,70,4.0
-214,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Pathways Speech,5,2025-09-09,70,4.0
-280,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Pathways Speech,5,2025-09-09,70,4.0
-27,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Pathways Speech,5,2025-09-16,63,5.0
-49,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Pathways Speech,5,2025-09-16,63,5.0
-60,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Pathways Speech,5,2025-09-23,56,6.0
-93,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Pathways Speech,5,2025-09-23,56,6.0
-203,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Pathways Speech,5,2025-09-23,56,6.0
-38,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Pathways Speech,5,2025-09-30,49,7.0
-71,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Pathways Speech,5,2025-09-30,49,7.0
-115,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Pathways Speech,5,2025-09-30,49,7.0
-126,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Pathways Speech,5,2025-10-14,35,8.0
-137,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Pathways Speech,5,2025-10-14,35,8.0
-148,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Pathways Speech,5,2025-10-14,35,8.0
-5,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Pathways Speech,5,2025-10-21,28,9.0
-291,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Pathways Speech,5,2025-10-21,28,9.0
-159,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Pathways Speech,5,2025-10-21,28,9.0
-2,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Table Topic Master,6,1990-01-01,13105,1.0
-288,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Table Topic Master,6,1990-01-01,13105,1.0
-24,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-68,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-79,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-90,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-101,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-112,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-123,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-134,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-156,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-167,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-189,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-200,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-233,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-244,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-255,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-266,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-277,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-310,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-321,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Table Topic Master,6,1990-01-01,13105,1.0
-145,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topic Master,6,2025-08-26,84,2.0
-178,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Table Topic Master,6,2025-09-02,77,3.0
-299,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Table Topic Master,6,2025-09-09,70,4.0
-222,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Table Topic Master,6,2025-09-16,63,5.0
-13,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Table Topic Master,6,2025-09-23,56,6.0
-46,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Table Topic Master,6,2025-09-30,49,7.0
-35,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Table Topic Master,6,2025-10-07,42,8.0
-211,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Table Topic Master,6,2025-10-14,35,9.0
-57,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Table Topic Master,6,2025-10-21,28,10.0
-0,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Toastmaster,7,1990-01-01,13105,1.0
-286,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Toastmaster,7,1990-01-01,13105,1.0
-11,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-22,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-33,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-77,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-88,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-99,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-110,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-121,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-132,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-154,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-165,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-176,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-187,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-231,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-242,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-253,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-264,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-275,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-297,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-319,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Toastmaster,7,1990-01-01,13105,1.0
-198,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Toastmaster,7,2025-08-26,84,2.0
-209,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Toastmaster,7,2025-09-02,77,3.0
-308,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Toastmaster,7,2025-09-09,70,4.0
-220,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Toastmaster,7,2025-09-16,63,5.0
-143,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Toastmaster,7,2025-09-23,56,6.0
-55,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Toastmaster,7,2025-09-30,49,7.0
-44,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Toastmaster,7,2025-10-14,35,8.0
-66,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Toastmaster,7,2025-10-21,28,9.0
-6,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Evaluation,8,1990-01-01,13105,1.0
-292,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Evaluation,8,1990-01-01,13105,1.0
-28,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Evaluation,8,1990-01-01,13105,1.0
-248,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Evaluation,8,1990-01-01,13105,1.0
-281,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Evaluation,8,1990-01-01,13105,1.0
-303,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Evaluation,8,1990-01-01,13105,1.0
-314,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluation,8,1990-01-01,13105,1.0
-138,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Evaluation,8,2025-08-26,84,2.0
-160,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Evaluation,8,2025-08-26,84,2.0
-226,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Evaluation,8,2025-08-26,84,2.0
-17,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Evaluation,8,2025-09-02,77,3.0
-259,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Evaluation,8,2025-09-02,77,3.0
-270,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluation,8,2025-09-02,77,3.0
-39,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Evaluation,8,2025-09-09,70,4.0
-50,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Evaluation,8,2025-09-09,70,4.0
-61,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Evaluation,8,2025-09-09,70,4.0
-105,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Evaluation,8,2025-09-16,63,5.0
-149,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluation,8,2025-09-16,63,5.0
-116,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Evaluation,8,2025-09-23,56,6.0
-171,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Evaluation,8,2025-09-23,56,6.0
-325,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Evaluation,8,2025-09-23,56,6.0
-83,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Evaluation,8,2025-09-30,49,7.0
-94,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Evaluation,8,2025-09-30,49,7.0
-127,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Evaluation,8,2025-09-30,49,7.0
-72,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluation,8,2025-10-14,35,8.0
-182,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Evaluation,8,2025-10-14,35,8.0
-193,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluation,8,2025-10-14,35,8.0
-204,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluation,8,2025-10-21,28,9.0
-215,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Evaluation,8,2025-10-21,28,9.0
-237,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Evaluation,8,2025-10-21,28,9.0
-4,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Table Topics Evaluation,9,1990-01-01,13105,1.0
-290,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Table Topics Evaluation,9,1990-01-01,13105,1.0
-26,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-37,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-48,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-70,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-114,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-125,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-136,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-147,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-169,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-180,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-213,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-224,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-235,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-246,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-257,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-268,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-279,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-301,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-312,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-323,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Table Topics Evaluation,9,1990-01-01,13105,1.0
-191,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Table Topics Evaluation,9,2025-08-26,84,2.0
-202,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Table Topics Evaluation,9,2025-09-02,77,3.0
-158,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Table Topics Evaluation,9,2025-09-09,70,4.0
-15,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Table Topics Evaluation,9,2025-09-16,63,5.0
-81,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Table Topics Evaluation,9,2025-09-23,56,6.0
-103,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Table Topics Evaluation,9,2025-09-30,49,7.0
-59,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Table Topics Evaluation,9,2025-10-14,35,8.0
-92,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Table Topics Evaluation,9,2025-10-21,28,9.0
-8,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-294,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-19,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-41,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-52,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-63,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-74,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-96,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-118,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-129,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-151,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-173,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-184,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-195,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-228,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-239,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-250,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-261,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-272,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-305,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-316,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-327,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,Evaluate the Evaluators,10,1990-01-01,13105,1.0
-217,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,Evaluate the Evaluators,10,2025-08-26,84,2.0
-162,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,Evaluate the Evaluators,10,2025-09-02,77,3.0
-30,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,Evaluate the Evaluators,10,2025-09-09,70,4.0
-206,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,Evaluate the Evaluators,10,2025-09-16,63,5.0
-283,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,Evaluate the Evaluators,10,2025-09-23,56,6.0
-140,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,Evaluate the Evaluators,10,2025-09-30,49,7.0
-85,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,Evaluate the Evaluators,10,2025-10-14,35,8.0
-107,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,Evaluate the Evaluators,10,2025-10-21,28,9.0
-10,Drew S,2025-11-01,1990-01-01,Y,Y,17,0 New Member,General Evaluation,11,1990-01-01,13105,1.0
-296,Asim M,2025-11-05,1990-01-01,Y,1990-01-01,13,0 New Member,General Evaluation,11,1990-01-01,13105,1.0
-21,Makan E,2025-06-01,1990-01-01,Y,Y,170,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-32,Somesh G,2023-05-01,1990-01-01,Y,N,932,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-43,Ai Lin G,2020-01-01,1990-01-01,Y,1990-01-01,2148,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-54,Robyn R,2010-04-01,1990-01-01,Y,1990-01-01,5710,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-76,Craig G,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-109,Yee Hern K,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-120,Rahul S,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-142,Ashlyn P,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-175,Fliss D,2024-07-01,1990-01-01,Y,1990-01-01,505,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-186,Kallen H,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-197,Lathin T,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-208,Mithula B,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-219,Sonal M,2023-07-01,1990-01-01,Y,1990-01-01,871,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-230,Walter F,2025-04-01,1990-01-01,Y,1990-01-01,231,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-241,Frank C,2024-04-01,1990-01-01,Y,1990-01-01,596,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-252,Rukmani R,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-274,Steve C,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-285,Keoni U,2024-01-01,1990-01-01,Y,1990-01-01,687,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-307,Mark R,2010-06-01,1990-01-01,Y,1990-01-01,5649,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-318,Raminder J,2025-10-01,1990-01-01,Y,1990-01-01,48,1 Senior,General Evaluation,11,1990-01-01,13105,1.0
-131,Armaan J,2025-08-01,1990-01-01,Y,1990-01-01,109,1 Senior,General Evaluation,11,2025-08-26,84,2.0
-65,Anju G,2023-06-01,1990-01-01,Y,1990-01-01,901,1 Senior,General Evaluation,11,2025-09-02,77,3.0
-329,Anggit S,2024-06-21,1990-01-01,Y,1990-01-01,515,1 Senior,General Evaluation,11,2025-09-09,70,4.0
-164,Eloyise B,2013-01-01,1990-01-01,Y,1990-01-01,4704,1 Senior,General Evaluation,11,2025-09-23,56,5.0
-153,Divya R,2025-05-01,1990-01-01,Y,1990-01-01,201,1 Senior,General Evaluation,11,2025-09-30,49,6.0
-98,Alicia C,2025-07-01,1990-01-01,Y,1990-01-01,140,1 Senior,General Evaluation,11,2025-10-07,42,7.0
-263,Sook Sing L,2024-06-01,1990-01-01,Y,1990-01-01,535,1 Senior,General Evaluation,11,2025-10-14,35,8.0
-87,Teena K-H,2025-01-01,1990-01-01,Y,1990-01-01,321,1 Senior,General Evaluation,11,2025-10-21,28,9.0
+,member_name,role_name,role_last_performed_date
+45,Robyn R,Tonic,1990-01-01
+56,Anju G,Tonic,1990-01-01
+100,Yee Hern K,Tonic,1990-01-01
+111,Rahul S,Tonic,1990-01-01
+122,Armaan J,Tonic,1990-01-01
+133,Ashlyn P,Tonic,1990-01-01
+144,Divya R,Tonic,1990-01-01
+155,Eloyise B,Tonic,1990-01-01
+166,Fliss D,Tonic,1990-01-01
+177,Kallen H,Tonic,1990-01-01
+188,Lathin T,Tonic,1990-01-01
+199,Mithula B,Tonic,1990-01-01
+210,Sonal M,Tonic,1990-01-01
+221,Walter F,Tonic,1990-01-01
+232,Frank C,Tonic,1990-01-01
+243,Rukmani R,Tonic,1990-01-01
+254,Sook Sing L,Tonic,1990-01-01
+265,Steve C,Tonic,1990-01-01
+276,Keoni U,Tonic,1990-01-01
+298,Mark R,Tonic,1990-01-01
+309,Raminder J,Tonic,1990-01-01
+320,Anggit S,Tonic,1990-01-01
+78,Teena K-H,Tonic,2025-08-26
+67,Craig G,Tonic,2025-09-02
+89,Alicia C,Tonic,2025-09-09
+287,Asim M,Tonic,2025-09-23
+12,Makan E,Tonic,2025-09-30
+23,Somesh G,Tonic,2025-10-07
+1,Drew S,Tonic,2025-10-14
+34,Ai Lin G,Tonic,2025-10-21
+47,Robyn R,Inspiration,1990-01-01
+69,Craig G,Inspiration,1990-01-01
+80,Teena K-H,Inspiration,1990-01-01
+102,Yee Hern K,Inspiration,1990-01-01
+113,Rahul S,Inspiration,1990-01-01
+124,Armaan J,Inspiration,1990-01-01
+135,Ashlyn P,Inspiration,1990-01-01
+146,Divya R,Inspiration,1990-01-01
+157,Eloyise B,Inspiration,1990-01-01
+168,Fliss D,Inspiration,1990-01-01
+179,Kallen H,Inspiration,1990-01-01
+190,Lathin T,Inspiration,1990-01-01
+201,Mithula B,Inspiration,1990-01-01
+212,Sonal M,Inspiration,1990-01-01
+223,Walter F,Inspiration,1990-01-01
+234,Frank C,Inspiration,1990-01-01
+256,Sook Sing L,Inspiration,1990-01-01
+267,Steve C,Inspiration,1990-01-01
+278,Keoni U,Inspiration,1990-01-01
+300,Mark R,Inspiration,1990-01-01
+311,Raminder J,Inspiration,1990-01-01
+322,Anggit S,Inspiration,1990-01-01
+58,Anju G,Inspiration,2025-08-26
+36,Ai Lin G,Inspiration,2025-09-02
+245,Rukmani R,Inspiration,2025-09-09
+91,Alicia C,Inspiration,2025-09-16
+3,Drew S,Inspiration,2025-09-23
+289,Asim M,Inspiration,2025-09-30
+14,Makan E,Inspiration,2025-10-14
+25,Somesh G,Inspiration,2025-10-21
+42,Ai Lin G,Timing Report,1990-01-01
+64,Anju G,Timing Report,1990-01-01
+86,Teena K-H,Timing Report,1990-01-01
+108,Yee Hern K,Timing Report,1990-01-01
+119,Rahul S,Timing Report,1990-01-01
+130,Armaan J,Timing Report,1990-01-01
+141,Ashlyn P,Timing Report,1990-01-01
+152,Divya R,Timing Report,1990-01-01
+163,Eloyise B,Timing Report,1990-01-01
+185,Kallen H,Timing Report,1990-01-01
+196,Lathin T,Timing Report,1990-01-01
+207,Mithula B,Timing Report,1990-01-01
+218,Sonal M,Timing Report,1990-01-01
+229,Walter F,Timing Report,1990-01-01
+251,Rukmani R,Timing Report,1990-01-01
+262,Sook Sing L,Timing Report,1990-01-01
+273,Steve C,Timing Report,1990-01-01
+284,Keoni U,Timing Report,1990-01-01
+306,Mark R,Timing Report,1990-01-01
+317,Raminder J,Timing Report,1990-01-01
+328,Anggit S,Timing Report,1990-01-01
+97,Alicia C,Timing Report,2025-08-26
+240,Frank C,Timing Report,2025-09-02
+20,Makan E,Timing Report,2025-09-09
+174,Fliss D,Timing Report,2025-09-16
+75,Craig G,Timing Report,2025-09-23
+9,Drew S,Timing Report,2025-09-30
+295,Asim M,Timing Report,2025-10-07
+31,Somesh G,Timing Report,2025-10-14
+53,Robyn R,Timing Report,2025-10-21
+40,Ai Lin G,Highlights & Phrases,1990-01-01
+62,Anju G,Highlights & Phrases,1990-01-01
+73,Craig G,Highlights & Phrases,1990-01-01
+84,Teena K-H,Highlights & Phrases,1990-01-01
+95,Alicia C,Highlights & Phrases,1990-01-01
+106,Yee Hern K,Highlights & Phrases,1990-01-01
+117,Rahul S,Highlights & Phrases,1990-01-01
+128,Armaan J,Highlights & Phrases,1990-01-01
+139,Ashlyn P,Highlights & Phrases,1990-01-01
+161,Eloyise B,Highlights & Phrases,1990-01-01
+194,Lathin T,Highlights & Phrases,1990-01-01
+216,Sonal M,Highlights & Phrases,1990-01-01
+227,Walter F,Highlights & Phrases,1990-01-01
+238,Frank C,Highlights & Phrases,1990-01-01
+249,Rukmani R,Highlights & Phrases,1990-01-01
+260,Sook Sing L,Highlights & Phrases,1990-01-01
+271,Steve C,Highlights & Phrases,1990-01-01
+282,Keoni U,Highlights & Phrases,1990-01-01
+304,Mark R,Highlights & Phrases,1990-01-01
+315,Raminder J,Highlights & Phrases,1990-01-01
+326,Anggit S,Highlights & Phrases,1990-01-01
+172,Fliss D,Highlights & Phrases,2025-08-26
+51,Robyn R,Highlights & Phrases,2025-09-02
+150,Divya R,Highlights & Phrases,2025-09-09
+205,Mithula B,Highlights & Phrases,2025-09-16
+183,Kallen H,Highlights & Phrases,2025-09-23
+29,Somesh G,Highlights & Phrases,2025-09-30
+7,Drew S,Highlights & Phrases,2025-10-07
+293,Asim M,Highlights & Phrases,2025-10-14
+18,Makan E,Highlights & Phrases,2025-10-21
+16,Makan E,Pathways Speech,1990-01-01
+170,Fliss D,Pathways Speech,1990-01-01
+192,Lathin T,Pathways Speech,1990-01-01
+225,Walter F,Pathways Speech,1990-01-01
+236,Frank C,Pathways Speech,1990-01-01
+269,Steve C,Pathways Speech,1990-01-01
+302,Mark R,Pathways Speech,1990-01-01
+313,Raminder J,Pathways Speech,1990-01-01
+181,Kallen H,Pathways Speech,2025-08-26
+258,Sook Sing L,Pathways Speech,2025-08-26
+324,Anggit S,Pathways Speech,2025-08-26
+82,Teena K-H,Pathways Speech,2025-09-02
+247,Rukmani R,Pathways Speech,2025-09-02
+104,Yee Hern K,Pathways Speech,2025-09-09
+214,Sonal M,Pathways Speech,2025-09-09
+280,Keoni U,Pathways Speech,2025-09-09
+27,Somesh G,Pathways Speech,2025-09-16
+49,Robyn R,Pathways Speech,2025-09-16
+60,Anju G,Pathways Speech,2025-09-23
+93,Alicia C,Pathways Speech,2025-09-23
+203,Mithula B,Pathways Speech,2025-09-23
+38,Ai Lin G,Pathways Speech,2025-09-30
+71,Craig G,Pathways Speech,2025-09-30
+115,Rahul S,Pathways Speech,2025-09-30
+126,Armaan J,Pathways Speech,2025-10-14
+137,Ashlyn P,Pathways Speech,2025-10-14
+148,Divya R,Pathways Speech,2025-10-14
+5,Drew S,Pathways Speech,2025-10-21
+291,Asim M,Pathways Speech,2025-10-21
+159,Eloyise B,Pathways Speech,2025-10-21
+2,Drew S,Table Topic Master,1990-01-01
+288,Asim M,Table Topic Master,1990-01-01
+24,Somesh G,Table Topic Master,1990-01-01
+68,Craig G,Table Topic Master,1990-01-01
+79,Teena K-H,Table Topic Master,1990-01-01
+90,Alicia C,Table Topic Master,1990-01-01
+101,Yee Hern K,Table Topic Master,1990-01-01
+112,Rahul S,Table Topic Master,1990-01-01
+123,Armaan J,Table Topic Master,1990-01-01
+134,Ashlyn P,Table Topic Master,1990-01-01
+156,Eloyise B,Table Topic Master,1990-01-01
+167,Fliss D,Table Topic Master,1990-01-01
+189,Lathin T,Table Topic Master,1990-01-01
+200,Mithula B,Table Topic Master,1990-01-01
+233,Frank C,Table Topic Master,1990-01-01
+244,Rukmani R,Table Topic Master,1990-01-01
+255,Sook Sing L,Table Topic Master,1990-01-01
+266,Steve C,Table Topic Master,1990-01-01
+277,Keoni U,Table Topic Master,1990-01-01
+310,Raminder J,Table Topic Master,1990-01-01
+321,Anggit S,Table Topic Master,1990-01-01
+145,Divya R,Table Topic Master,2025-08-26
+178,Kallen H,Table Topic Master,2025-09-02
+299,Mark R,Table Topic Master,2025-09-09
+222,Walter F,Table Topic Master,2025-09-16
+13,Makan E,Table Topic Master,2025-09-23
+46,Robyn R,Table Topic Master,2025-09-30
+35,Ai Lin G,Table Topic Master,2025-10-07
+211,Sonal M,Table Topic Master,2025-10-14
+57,Anju G,Table Topic Master,2025-10-21
+0,Drew S,Toastmaster,1990-01-01
+286,Asim M,Toastmaster,1990-01-01
+11,Makan E,Toastmaster,1990-01-01
+22,Somesh G,Toastmaster,1990-01-01
+33,Ai Lin G,Toastmaster,1990-01-01
+77,Teena K-H,Toastmaster,1990-01-01
+88,Alicia C,Toastmaster,1990-01-01
+99,Yee Hern K,Toastmaster,1990-01-01
+110,Rahul S,Toastmaster,1990-01-01
+121,Armaan J,Toastmaster,1990-01-01
+132,Ashlyn P,Toastmaster,1990-01-01
+154,Eloyise B,Toastmaster,1990-01-01
+165,Fliss D,Toastmaster,1990-01-01
+176,Kallen H,Toastmaster,1990-01-01
+187,Lathin T,Toastmaster,1990-01-01
+231,Frank C,Toastmaster,1990-01-01
+242,Rukmani R,Toastmaster,1990-01-01
+253,Sook Sing L,Toastmaster,1990-01-01
+264,Steve C,Toastmaster,1990-01-01
+275,Keoni U,Toastmaster,1990-01-01
+297,Mark R,Toastmaster,1990-01-01
+319,Anggit S,Toastmaster,1990-01-01
+198,Mithula B,Toastmaster,2025-08-26
+209,Sonal M,Toastmaster,2025-09-02
+308,Raminder J,Toastmaster,2025-09-09
+220,Walter F,Toastmaster,2025-09-16
+143,Divya R,Toastmaster,2025-09-23
+55,Anju G,Toastmaster,2025-09-30
+44,Robyn R,Toastmaster,2025-10-14
+66,Craig G,Toastmaster,2025-10-21
+6,Drew S,Evaluation,1990-01-01
+292,Asim M,Evaluation,1990-01-01
+28,Somesh G,Evaluation,1990-01-01
+248,Rukmani R,Evaluation,1990-01-01
+281,Keoni U,Evaluation,1990-01-01
+303,Mark R,Evaluation,1990-01-01
+314,Raminder J,Evaluation,1990-01-01
+138,Ashlyn P,Evaluation,2025-08-26
+160,Eloyise B,Evaluation,2025-08-26
+226,Walter F,Evaluation,2025-08-26
+17,Makan E,Evaluation,2025-09-02
+259,Sook Sing L,Evaluation,2025-09-02
+270,Steve C,Evaluation,2025-09-02
+39,Ai Lin G,Evaluation,2025-09-09
+50,Robyn R,Evaluation,2025-09-09
+61,Anju G,Evaluation,2025-09-09
+105,Yee Hern K,Evaluation,2025-09-16
+149,Divya R,Evaluation,2025-09-16
+116,Rahul S,Evaluation,2025-09-23
+171,Fliss D,Evaluation,2025-09-23
+325,Anggit S,Evaluation,2025-09-23
+83,Teena K-H,Evaluation,2025-09-30
+94,Alicia C,Evaluation,2025-09-30
+127,Armaan J,Evaluation,2025-09-30
+72,Craig G,Evaluation,2025-10-14
+182,Kallen H,Evaluation,2025-10-14
+193,Lathin T,Evaluation,2025-10-14
+204,Mithula B,Evaluation,2025-10-21
+215,Sonal M,Evaluation,2025-10-21
+237,Frank C,Evaluation,2025-10-21
+4,Drew S,Table Topics Evaluation,1990-01-01
+290,Asim M,Table Topics Evaluation,1990-01-01
+26,Somesh G,Table Topics Evaluation,1990-01-01
+37,Ai Lin G,Table Topics Evaluation,1990-01-01
+48,Robyn R,Table Topics Evaluation,1990-01-01
+70,Craig G,Table Topics Evaluation,1990-01-01
+114,Rahul S,Table Topics Evaluation,1990-01-01
+125,Armaan J,Table Topics Evaluation,1990-01-01
+136,Ashlyn P,Table Topics Evaluation,1990-01-01
+147,Divya R,Table Topics Evaluation,1990-01-01
+169,Fliss D,Table Topics Evaluation,1990-01-01
+180,Kallen H,Table Topics Evaluation,1990-01-01
+213,Sonal M,Table Topics Evaluation,1990-01-01
+224,Walter F,Table Topics Evaluation,1990-01-01
+235,Frank C,Table Topics Evaluation,1990-01-01
+246,Rukmani R,Table Topics Evaluation,1990-01-01
+257,Sook Sing L,Table Topics Evaluation,1990-01-01
+268,Steve C,Table Topics Evaluation,1990-01-01
+279,Keoni U,Table Topics Evaluation,1990-01-01
+301,Mark R,Table Topics Evaluation,1990-01-01
+312,Raminder J,Table Topics Evaluation,1990-01-01
+323,Anggit S,Table Topics Evaluation,1990-01-01
+191,Lathin T,Table Topics Evaluation,2025-08-26
+202,Mithula B,Table Topics Evaluation,2025-09-02
+158,Eloyise B,Table Topics Evaluation,2025-09-09
+15,Makan E,Table Topics Evaluation,2025-09-16
+81,Teena K-H,Table Topics Evaluation,2025-09-23
+103,Yee Hern K,Table Topics Evaluation,2025-09-30
+59,Anju G,Table Topics Evaluation,2025-10-14
+92,Alicia C,Table Topics Evaluation,2025-10-21
+8,Drew S,Evaluate the Evaluators,1990-01-01
+294,Asim M,Evaluate the Evaluators,1990-01-01
+19,Makan E,Evaluate the Evaluators,1990-01-01
+41,Ai Lin G,Evaluate the Evaluators,1990-01-01
+52,Robyn R,Evaluate the Evaluators,1990-01-01
+63,Anju G,Evaluate the Evaluators,1990-01-01
+74,Craig G,Evaluate the Evaluators,1990-01-01
+96,Alicia C,Evaluate the Evaluators,1990-01-01
+118,Rahul S,Evaluate the Evaluators,1990-01-01
+129,Armaan J,Evaluate the Evaluators,1990-01-01
+151,Divya R,Evaluate the Evaluators,1990-01-01
+173,Fliss D,Evaluate the Evaluators,1990-01-01
+184,Kallen H,Evaluate the Evaluators,1990-01-01
+195,Lathin T,Evaluate the Evaluators,1990-01-01
+228,Walter F,Evaluate the Evaluators,1990-01-01
+239,Frank C,Evaluate the Evaluators,1990-01-01
+250,Rukmani R,Evaluate the Evaluators,1990-01-01
+261,Sook Sing L,Evaluate the Evaluators,1990-01-01
+272,Steve C,Evaluate the Evaluators,1990-01-01
+305,Mark R,Evaluate the Evaluators,1990-01-01
+316,Raminder J,Evaluate the Evaluators,1990-01-01
+327,Anggit S,Evaluate the Evaluators,1990-01-01
+217,Sonal M,Evaluate the Evaluators,2025-08-26
+162,Eloyise B,Evaluate the Evaluators,2025-09-02
+30,Somesh G,Evaluate the Evaluators,2025-09-09
+206,Mithula B,Evaluate the Evaluators,2025-09-16
+283,Keoni U,Evaluate the Evaluators,2025-09-23
+140,Ashlyn P,Evaluate the Evaluators,2025-09-30
+85,Teena K-H,Evaluate the Evaluators,2025-10-14
+107,Yee Hern K,Evaluate the Evaluators,2025-10-21
+10,Drew S,General Evaluation,1990-01-01
+296,Asim M,General Evaluation,1990-01-01
+21,Makan E,General Evaluation,1990-01-01
+32,Somesh G,General Evaluation,1990-01-01
+43,Ai Lin G,General Evaluation,1990-01-01
+54,Robyn R,General Evaluation,1990-01-01
+76,Craig G,General Evaluation,1990-01-01
+109,Yee Hern K,General Evaluation,1990-01-01
+120,Rahul S,General Evaluation,1990-01-01
+142,Ashlyn P,General Evaluation,1990-01-01
+175,Fliss D,General Evaluation,1990-01-01
+186,Kallen H,General Evaluation,1990-01-01
+197,Lathin T,General Evaluation,1990-01-01
+208,Mithula B,General Evaluation,1990-01-01
+219,Sonal M,General Evaluation,1990-01-01
+230,Walter F,General Evaluation,1990-01-01
+241,Frank C,General Evaluation,1990-01-01
+252,Rukmani R,General Evaluation,1990-01-01
+274,Steve C,General Evaluation,1990-01-01
+285,Keoni U,General Evaluation,1990-01-01
+307,Mark R,General Evaluation,1990-01-01
+318,Raminder J,General Evaluation,1990-01-01
+131,Armaan J,General Evaluation,2025-08-26
+65,Anju G,General Evaluation,2025-09-02
+329,Anggit S,General Evaluation,2025-09-09
+164,Eloyise B,General Evaluation,2025-09-23
+153,Divya R,General Evaluation,2025-09-30
+98,Alicia C,General Evaluation,2025-10-07
+263,Sook Sing L,General Evaluation,2025-10-14
+87,Teena K-H,General Evaluation,2025-10-21
